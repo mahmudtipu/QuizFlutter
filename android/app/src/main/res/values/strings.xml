@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="facebook_app_id">5634035559945944</string>
+    <string name="app_name">Quiz NP</string>
+    <string name="fb_login_protocol_scheme">fb5634035559945944</string>
+    <string name="facebook_client_token">9aded2a65abd5c358d006674fa5d3d1f</string>
+</resources>
